@@ -105,6 +105,7 @@ def prjectionOfLine():
     t.write("b2   ", align='right')
     t.goto(0, -e)
 
+
 def projectionOfTriangle():
     t.heading()
 
@@ -187,7 +188,6 @@ def projectionOfTriangle():
 
     t.right(150)
     t.forward(368.56)
-
 
 
 screen = Screen()
